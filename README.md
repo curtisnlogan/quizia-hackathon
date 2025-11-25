@@ -1,4 +1,4 @@
-# Portfolio Hackathon README
+# Personal Portfolio README
 
 # Quizia — JavaScript Web App
 
