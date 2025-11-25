@@ -1,3 +1,26 @@
+# Portfolio Hackathon README
+
+# Quizia — JavaScript Web App
+
+**Live Demo:** https://sourtarte.github.io/hackathon-quiz-game/  
+**Tech:** JavaScript • HTML5 • CSS3 • API (Open Trivia)
+
+A fast, responsive quiz app built in 48 hours during a team hackathon. Users can customise difficulty, category, question type, and quiz length, then play through a clean, accessible quiz game with real-time scoring.
+
+## My biggest win
+- I fixed a critical API-layer failure in the program flow that would have prevented our MVP from shipping during my first-ever hackathon. I led a major refactor of the JavaScript logic, removing dozens of bug-prone API calls and stabilizing the overall architecture. By digging into overlooked documentation that a teammate had initially skimmed past, I uncovered the root cause of the issue and guided the team toward a working solution.
+
+## Key Highlights
+- Fully-responsive minimalist UI built with Boostrap 5
+- Dynamic, customisable quizzes powered by my first-ever live API integration
+- Professional Git team workflow
+
+---
+
+# Original Hackathon README
+
+The below README was written during the hackathon.
+
 # Quizia
 
 ## Introduction
